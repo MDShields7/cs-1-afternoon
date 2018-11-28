@@ -17,3 +17,15 @@ Use recursion to solve these.
 * Make a function called `fibonacci(n)` that returns the nth number in the fibonacci sequence
   * The fibonacci sequence is 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, etc. So `fibonacci(10)` would be the 10th value in the sequence which is 55.
   * Hint: Each value in the sequence is the sum of the previous two values, until you get to the first two values in the sequence which are 1. Figure out the base case.
+
+## Sorting Algorithms
+
+Write a function to sort an array using:
+
+* Selection sort
+* Bubble sort
+* Insertion sort
+* Merge sort
+* Quick sort
+
+Use internet searches to find resources to guide you.
