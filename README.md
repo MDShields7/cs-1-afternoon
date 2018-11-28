@@ -9,7 +9,7 @@ Use recursion to solve these.
 * Finish the directory listing from this morning.
 * Determine if a number is even, without using modulo (`%`).
 * Reverse a string. Hint: to reverse a string, you could take off the first letter, and add it after you've reversed the the rest of the string.
-* Write a function to flatten an array, creating a new array. E.g. if the input was `[1, [7, [5, 4], 3, 2]`, the output would be a new array of `[1, 7, 5, 4, 3, 2]`.
+* Write a function to flatten an array, creating a new array. E.g. if the input was `[1, [7, [5, 4], 3], 2]`, the output would be a new array of `[1, 7, 5, 4, 3, 2]`.
 * Write a function `exponent(number, exp)` that raises number to the power of exp. E.g. `exponent(8, 2)` would print 64.
 * Write a function `binarySearch(array, number)` that returns whether `number` is found within the `array`. Do a binary search. Assume `array` is a sorted list of integers, and `number` is an integer.
   * At first, use `.slice()` to create left and right halves of the array.
